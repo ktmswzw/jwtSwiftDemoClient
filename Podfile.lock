@@ -1,0 +1,86 @@
+PODS:
+  - Alamofire (3.1.5)
+  - AlamofireObjectMapper (2.1.0):
+    - Alamofire (~> 3.1.0)
+    - ObjectMapper (~> 1.0)
+  - CryptoSwift (0.2.2)
+  - Eureka (1.3.1)
+  - IBAnimatable (1.1)
+  - JSONWebToken (1.4.2):
+    - CryptoSwift (= 0.2.2)
+  - ObjectMapper (1.1.1)
+  - SAWaveToast (0.2.0)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (from `https://github.com/Alamofire/Alamofire`)
+  - AlamofireObjectMapper (from `https://github.com/tristanhimmelman/AlamofireObjectMapper`)
+  - CryptoSwift (from `https://github.com/krzyzanowskim/CryptoSwift`)
+  - Eureka (from `https://github.com/xmartlabs/Eureka`)
+  - IBAnimatable (from `https://github.com/JakeLin/IBAnimatable`)
+  - JSONWebToken (from `https://github.com/kylef/JSONWebToken.swift`)
+  - ObjectMapper (from `https://github.com/Hearst-DD/ObjectMapper`)
+  - SAWaveToast (from `https://github.com/szk-atmosphere/SAWaveToast`)
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+
+EXTERNAL SOURCES:
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire
+  AlamofireObjectMapper:
+    :git: https://github.com/tristanhimmelman/AlamofireObjectMapper
+  CryptoSwift:
+    :git: https://github.com/krzyzanowskim/CryptoSwift
+  Eureka:
+    :git: https://github.com/xmartlabs/Eureka
+  IBAnimatable:
+    :git: https://github.com/JakeLin/IBAnimatable
+  JSONWebToken:
+    :git: https://github.com/kylef/JSONWebToken.swift
+  ObjectMapper:
+    :git: https://github.com/Hearst-DD/ObjectMapper
+  SAWaveToast:
+    :git: https://github.com/szk-atmosphere/SAWaveToast
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  Alamofire:
+    :commit: fe3a29941cd1f8d17a81a0843387743238d24d8f
+    :git: https://github.com/Alamofire/Alamofire
+  AlamofireObjectMapper:
+    :commit: 8d4ddfd52d08469d647933f93adc841d80b72037
+    :git: https://github.com/tristanhimmelman/AlamofireObjectMapper
+  CryptoSwift:
+    :commit: 14e726db47efd6cbda0ff99b73dae2023ec354db
+    :git: https://github.com/krzyzanowskim/CryptoSwift
+  Eureka:
+    :commit: 6aff0d462daebf0ff442fdd54eed5f195202aa1f
+    :git: https://github.com/xmartlabs/Eureka
+  IBAnimatable:
+    :commit: 555158e067be90d176a4740ca59f1146b5371e81
+    :git: https://github.com/JakeLin/IBAnimatable
+  JSONWebToken:
+    :commit: 7b2eb040438d5bc184444494d871dd505ba23d2e
+    :git: https://github.com/kylef/JSONWebToken.swift
+  ObjectMapper:
+    :commit: 31a26172f2cec51da92c7e6d4bccce5057f72cea
+    :git: https://github.com/Hearst-DD/ObjectMapper
+  SAWaveToast:
+    :commit: 43bbece5b1e7ab63346baea71904016571787e32
+    :git: https://github.com/szk-atmosphere/SAWaveToast
+  SwiftyJSON:
+    :commit: 42bdb102d2624b143c07850ebdc1537d5b6579b6
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  Alamofire: 5f730ba29fd113b7ddd71c1e65d0c630acf5d7b0
+  AlamofireObjectMapper: 24097576202064f8b0a583452dd934064f78dc0e
+  CryptoSwift: d382228d6301c09474132417878a741c2a2e68cd
+  Eureka: 10df73e578ed8ec1f30c8fda5b4ffc8739786b74
+  IBAnimatable: bdadd2e2203feaf161c340e25cf2f7fcfd2a14fa
+  JSONWebToken: 1845c11e2f6da610362775c4c12c790525cb0492
+  ObjectMapper: 4143abed1dbd49b73d75092fe8fa1c88ed6434b7
+  SAWaveToast: 64bcf3f0ff1f8147d4c8c18bf51d1594fe22af81
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0
